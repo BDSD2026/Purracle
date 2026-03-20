@@ -1,0 +1,2 @@
+# Purracle
+Tarot App
